@@ -1,0 +1,22 @@
+{
+  "name": "broccoli-can-stache",
+  "version": "0.0.0",
+  "description": "Compile CanJS stache templates",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Bajix/broccoli-can-stache.git"
+  },
+  "keywords": [
+    "broccoli",
+    "canjs",
+    "stache"
+  ],
+  "author": "Thomas Sieverding <thomas@bajix.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Bajix/broccoli-can-stache/issues"
+  },
+  "homepage": "https://github.com/Bajix/broccoli-can-stache"
+}
