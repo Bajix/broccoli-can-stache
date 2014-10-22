@@ -1,6 +1,6 @@
 {
   "name": "broccoli-can-stache",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Compile CanJS stache templates",
   "main": "index.js",
   "scripts": {},
