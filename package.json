@@ -20,8 +20,8 @@
   },
   "homepage": "https://github.com/Bajix/broccoli-can-stache",
   "dependencies": {
-    "broccoli-filter": "^0.1.7",
-    "broccoli-htmlmin": "^1.2.0",
-    "walk-sync": "^0.1.2"
+    "broccoli-filter": "^1.2.3",
+    "broccoli-htmlmin": "^2.1.0",
+    "walk-sync": "^0.2.6"
   }
 }
