@@ -22,6 +22,6 @@
   "dependencies": {
     "broccoli-filter": "^1.2.3",
     "broccoli-htmlmin": "^2.1.0",
-    "walk-sync": "^0.2.6"
+    "walk-sync": "^0.3.1"
   }
 }
